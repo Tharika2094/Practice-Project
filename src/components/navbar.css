@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow&display=swap');
+
+.navSection{
+    background-color:#52494C ;
+    width: 100%;
+    max-width: 100vw;
+    height: 80px; 
+    margin: 0;
+    padding-left: 60px;
+    padding-right: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;  
+}
+
+.logo{
+    height: 60px;
+
+}
+
+
+
+.rightNav a{
+    margin: 5px;
+    color: white;
+    padding: 0 16px;
+    text-decoration: none;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-weight: 500;
+    cursor: pointer; 
+}
+
+
+
+
